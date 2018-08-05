@@ -2,3 +2,5 @@ The project deals with detecting forgeries in signature. It proposes a deep lear
 classification. The dataset for the project is not added for security reasons. 
 
 If required you can use the GPDS dataset for signatures with proper authorisation.
+
+Execute the __main__.py. There is a simulator file which is custom designed to suit specific need. Please refrain from running it
