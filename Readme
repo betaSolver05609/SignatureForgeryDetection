@@ -1,0 +1,4 @@
+The project deals with detecting forgeries in signature. It proposes a deep learning model and uses siamese network model and few shots
+classification. The dataset for the project is not added for security reasons. 
+
+If required you can use the GPDS dataset for signatures with proper authorisation.
